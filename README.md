@@ -1,2 +1,2 @@
 # Scientia_Chronicles
-aplicação em web do nosso jogo 
+Aplicação em web do nosso jogo 
